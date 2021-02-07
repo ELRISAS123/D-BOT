@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: DARK YT
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <img src="https://media.giphy.com/media/JROB2yZw89dFXrPXR9/giphy.gif" width="230" height="230"/>
 </p>
@@ -8,7 +8,7 @@
  
 </details>
 
-### Atencion!! TRADUCIDO POR SAMU330
+### Atencion!! HECHO POR DAMIAN 
 ¿QUIERES VOLVER A CARGAR EL SCRIPT? AMO MI NOMBRE / ENLACE CHANEL .... NO CAMBIE LA INFORMACIÓN !!!
 
 ## NOTA:>
